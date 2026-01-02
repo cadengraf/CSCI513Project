@@ -1,4 +1,4 @@
-# Mobile App for an Online Bookstore
+# Mobile Application for a Bookstore
 This project is a Android mobile application that implements a simple database-driven bookstore using an embedded SQLite database.
 The app is developed in Android Studio. 
 
